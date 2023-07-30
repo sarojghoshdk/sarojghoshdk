@@ -16,8 +16,9 @@ I am pursing my Btech in Electronics & Communication Engineering from [Asansol E
 <img align="left" alt="pandas" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <img align="left" alt="seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="padding-right:10px;" />
 <img align="left" alt="flask" width="26px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26px" height="26px"/>
+<img align="left" alt="jupiternotebook" width="26px" src="https://github.com/jupyter/jupyter.github.io/blob/master/assets/share.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
