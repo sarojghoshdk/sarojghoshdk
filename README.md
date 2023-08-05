@@ -10,6 +10,7 @@ I am pursing my Btech in Electronics & Communication Engineering from [Asansol E
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saroj-ghosh-a0a952225/)](https://www.linkedin.com/in/saroj-ghosh-a0a952225/)
 
+<!--  skills -->
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="padding-right:10px;" />
