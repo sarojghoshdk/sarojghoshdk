@@ -48,3 +48,6 @@ I am pursing my Btech in Electronics & Communication Engineering from [Asansol E
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarojghoshdk&theme=tokyonight" />
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sarojghoshdk&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
