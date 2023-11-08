@@ -31,6 +31,7 @@ I am pursing my Btech in Electronics & Communication Engineering from [Asansol E
 
 - [Web Scrapping Project](https://github.com/sarojghoshdk/review_scrapper_project) - An FlipKart Review Scrapping Project
 - [Image Scrapping Project](https://github.com/sarojghoshdk/image_scrapper_project) - An Image Scrapping Project
+- [Diamond Price Prediction Project](https://github.com/sarojghoshdk/Diamond_Price_Prediction) - A Diamond Price Prediction Project
 
 <!-- My contributions -->
 ## Github stats:
